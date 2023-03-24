@@ -1,6 +1,6 @@
 
 describe("Navigation", () => {
-    it("Enter Orange HRM Login page", () => {
+    it("Navigate to Google page", () => {
         cy.visit("https://google.com");
         
     })
